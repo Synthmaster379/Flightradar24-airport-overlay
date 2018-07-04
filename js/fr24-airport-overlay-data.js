@@ -77,18 +77,17 @@ var fr24_airport_overlay_data = [
 		date: 2014,
 		image: "CYYC.png"
 	},	
-	/*
 	{
-		neBoundLat: -33.92273053019009,
-		neBoundLng: 151.20755110740658,
-		swBoundLat: -33.9812189189758,
-		swBoundLng: 151.14664332389827,
-		name: "Sydney Airport",
-		IATA: "SYD",
-		ICAO: "YSSY",
-		uploader: "mkyung",
+		neBoundLat: 40.47,
+		neBoundLng: -73.52,
+		swBoundLat: 40.46,
+		swBoundLng: -73.53,
+		name: "Laguardia Airport",
+		IATA: "LGA",
+		ICAO: "KLGA",
+		uploader: "Synthmaster379",
 		email: "",
-		date: 2014,
-		image: "YSSY.png"
-	},	*/
+		date: 2018,
+		image: "KLGA.png"
+	},
 	]
