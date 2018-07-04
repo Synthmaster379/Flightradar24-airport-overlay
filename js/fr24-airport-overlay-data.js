@@ -50,7 +50,7 @@ var fr24_airport_overlay_data = [
 		email: "",
 		date: 2010,
 		image: "RJTT2.png"
-	},
+	},	
 	{
 		neBoundLat: 33.6667,
 		neBoundLng: -84.4017,
@@ -76,7 +76,7 @@ var fr24_airport_overlay_data = [
 		email: "",
 		date: 2014,
 		image: "CYYC.png"
-	},
+	},	
 	/*
 	{
 		neBoundLat: -33.92273053019009,
@@ -91,5 +91,4 @@ var fr24_airport_overlay_data = [
 		date: 2014,
 		image: "YSSY.png"
 	},	*/
-	//TEST
 	]
