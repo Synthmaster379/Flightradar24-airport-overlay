@@ -79,7 +79,7 @@ var fr24_airport_overlay_data = [
 	},	
 	{
 		neBoundLat: 40.855,
-		neBoundLng: -74.1505,
+		neBoundLng: -73.5705,
 		swBoundLat: 40.8383,
 		swBoundLng: -74.1017,
 		name: "Laguardia Airport",
