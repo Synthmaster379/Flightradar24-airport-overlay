@@ -7,6 +7,7 @@
 Inspired by [Hong Kong FIR (VHHK) FR24 Overlay](https://github.com/microtony/fr24-overlay-vhhk).
 
 This addon aims to label taxiways, runways and other visual markings on Flightradar24. 
+**TO INPUT COORDIANTES PUT SECONDS OVER 60 AND USE AS INPUT FOR AFTER DECIMAL PLACE**
 
 ### How to use:
 
