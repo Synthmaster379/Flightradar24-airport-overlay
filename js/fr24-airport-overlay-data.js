@@ -80,8 +80,8 @@ var fr24_airport_overlay_data = [
 	{
 		neBoundLat: 40.75,
 		neBoundLng: -73.85,
-		swBoundLat: 40.784,
-		swBoundLng: -73.8833,
+		swBoundLat: 40.884,
+		swBoundLng: -73.9833,
 		name: "Laguardia Airport",
 		IATA: "LGA",
 		ICAO: "KLGA",
