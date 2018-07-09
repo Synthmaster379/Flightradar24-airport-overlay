@@ -78,7 +78,7 @@ var fr24_airport_overlay_data = [
 		image: "CYYC.png"
 	},	
 	{
-		neBoundLat: 40.7833,
+		neBoundLat: 41.7833,
 		neBoundLng: -73.65,
 		swBoundLat: 40.767,
 		swBoundLng: -73.8833,
